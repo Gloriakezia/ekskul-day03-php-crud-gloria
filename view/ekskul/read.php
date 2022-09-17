@@ -36,7 +36,7 @@
 
                     
 
-                    <hr>
+                
 
                     <table class="table table-bordered">
                         <thead>
